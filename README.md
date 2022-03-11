@@ -2,11 +2,14 @@
 
 This is a Salesforce property management Salesforce application that allows you to post available properties for rent or sublease. After you have advertised your home, the management will mail you an invoice along with the minimum agreement paperwork. You may also pay your invoices entirely within the app, which includes payment verification using the authorized.net api. The APP is integrated with Authorized.net to verify credit card payment.
 
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
+
 ## How Do You Plan to Deploy Your Changes?
+This app can be deploy on heroku or on integrates with other webservices 
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
